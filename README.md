@@ -4,12 +4,12 @@
 This project is dedicated to developing a machine learning model that predicts credit risk in financial applications. The goal is to enable lenders to identify risky borrowers and reduce financial losses.
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Data Collection](#data-collection)
-3. [Data Preprocessing](#data-preprocessing)
-4. [Model Selection](#model-selection)
-5. [Evaluation Metrics](#evaluation-metrics)
-6. [Conclusion](#conclusion)
+1. [Introduction]
+2. [Data Collection]
+3. [Data Preprocessing]
+4. [Model Selection]
+5. [Evaluation Metrics]
+6. [Conclusion]
 
 ## Introduction
 In today’s financial landscape, accurately predicting credit risk is crucial for the sustainability of lending institutions. This project leverages machine learning techniques to analyze borrower information and classify the risk associated with each borrower.
